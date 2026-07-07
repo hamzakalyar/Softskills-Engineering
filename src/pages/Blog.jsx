@@ -11,10 +11,10 @@ export default function Blog() {
   return (
     <>
       <Helmet>
-        <title>Nexus Labs | Blog</title>
+        <title>Softskills Engineering | Blog</title>
         <meta
           name="description"
-          content="Insights on product design, software delivery, and AI-powered product strategy from Nexus Labs."
+          content="Insights on product design, software delivery, and AI-powered product strategy from Softskills Engineering."
         />
       </Helmet>
       <section className="pt-28">

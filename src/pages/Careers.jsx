@@ -11,10 +11,10 @@ export default function Careers() {
   return (
     <>
       <Helmet>
-        <title>Nexus Labs | Careers</title>
+        <title>Softskills Engineering | Careers</title>
         <meta
           name="description"
-          content="Join Nexus Labs and help shape product-led software systems for fast-moving enterprise teams."
+          content="Join Softskills Engineering and help shape product-led software systems for fast-moving enterprise teams."
         />
       </Helmet>
       <section className="pt-28">

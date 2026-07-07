@@ -8,10 +8,10 @@ export default function AboutPage() {
   return (
     <>
       <Helmet>
-        <title>Nexus Labs | About</title>
+        <title>Softskills Engineering | About</title>
         <meta
           name="description"
-          content="Learn about Nexus Labs leadership, company values, and how we deliver product and engineering programs."
+          content="Learn about Softskills Engineering leadership, company values, and how we deliver product and engineering programs."
         />
       </Helmet>
       <section className="pt-28">

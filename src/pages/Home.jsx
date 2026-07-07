@@ -12,10 +12,10 @@ export default function Home() {
   return (
     <>
       <Helmet>
-        <title>Nexus Labs | Home</title>
+        <title>Softskills Engineering | Home</title>
         <meta
           name="description"
-          content="Nexus Labs builds software platforms, SaaS products, and AI-powered experiences for ambitious teams."
+          content="Softskills Engineering builds software platforms, SaaS products, and AI-powered experiences for ambitious teams."
         />
       </Helmet>
       <Hero />
