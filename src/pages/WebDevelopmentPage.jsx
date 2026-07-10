@@ -7,7 +7,7 @@ import { ArrowLeft, ArrowUpRight, Monitor, Sparkles, Filter, Code } from 'lucide
 const webProjects = [
   {
     id: 'softskills',
-    title: 'Softskills Engineering Platform',
+    title: 'EdTech Platform',
     category: 'EdTech & AI Solutions',
     filterTag: 'ai-saas',
     description: 'An advanced educational environment delivering industry-relevant AI training and career path mapping through a bespoke interactive interface.',
@@ -23,7 +23,7 @@ const webProjects = [
   },
   {
     id: 'vantra',
-    title: 'Vantra AI Prospecting',
+    title: 'AI SaaS Platform',
     category: 'AI Lead Gen & Prospecting',
     filterTag: 'ai-saas',
     description: 'A state-of-the-art B2B SaaS platform that scans millions of daily signals to identify, qualify, and convert high-value prospects in a live pipeline.',
@@ -39,7 +39,7 @@ const webProjects = [
   },
   {
     id: 'zeetech',
-    title: 'Zeetech Corporate Portal',
+    title: 'Corporate Web Portal',
     category: 'Enterprise Cloud SaaS',
     filterTag: 'ai-saas',
     description: 'A scalable corporate web presence engineered for high traffic, featuring dynamic service integrations, animations, and global performance optimization.',
@@ -55,7 +55,7 @@ const webProjects = [
   },
   {
     id: 'zeetech-store',
-    title: 'Zeetech Commerce Ecosystem',
+    title: 'Kitchen & Home Store',
     category: 'Digital Storefront',
     filterTag: 'ecommerce',
     description: 'A modern commerce interface featuring real-time inventory state management, localized currency gateways, and a frictionless checkout funnel.',
@@ -71,7 +71,7 @@ const webProjects = [
   },
   {
     id: 'forge',
-    title: 'Forge Strength & Coaching',
+    title: 'Gym & Fitness Center',
     category: 'Gym & Physical Coaching',
     filterTag: 'ecommerce',
     description: 'A premium coaching landing page showcasing real coaching, raw iron philosophy, built-in workout calculators, and structural fitness programming.',
@@ -87,7 +87,7 @@ const webProjects = [
   },
   {
     id: 'elite-auto',
-    title: 'Elite Auto Lab Storefront',
+    title: 'Auto Repair & Detailing',
     category: 'Automotive & Detailing',
     filterTag: 'ecommerce',
     description: 'A premium workshop showcase highlighting precise automotive craftsmanship, high-end detailing portfolios, and dynamic online service scheduling.',
@@ -103,7 +103,7 @@ const webProjects = [
   },
   {
     id: 'voyara',
-    title: 'Voyara Luxury Travel Design',
+    title: 'Travel Agency',
     category: 'Bespoke Travel Design',
     filterTag: 'luxury',
     description: 'An immersive luxury editorial digital experience presenting bespoke private route planning, hotel portfolios, and bespoke itinerary mapping.',
@@ -119,7 +119,7 @@ const webProjects = [
   },
   {
     id: 'ferretti',
-    title: 'Ferretti International Law',
+    title: 'Law Firm',
     category: 'Boutique Legal Services',
     filterTag: 'luxury',
     description: 'A high-end corporate digital presence for an Italian-American boutique law firm, prioritizing brand authority, cross-border transactions, and client intake.',
@@ -135,7 +135,7 @@ const webProjects = [
   },
   {
     id: 'noir-ember',
-    title: 'Noir Ember Creative Agency',
+    title: 'Creative Agency',
     category: 'Design & Motion Agency',
     filterTag: 'luxury',
     description: 'A high-end showcase website presenting cinematic transitions, custom physics-based UI, and immersive portfolio presentations.',
@@ -151,7 +151,7 @@ const webProjects = [
   },
   {
     id: 'moshaz-luxury',
-    title: 'Moshaz Luxury Portfolio',
+    title: 'Luxury Beauty Salon',
     category: 'Luxury Fashion Editorial',
     filterTag: 'luxury',
     description: 'An ultra-premium visual presence highlighting exquisite craftsmanship, minimal fashion grid structures, and editorial brand storytelling.',
